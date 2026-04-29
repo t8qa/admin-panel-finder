@@ -2,7 +2,7 @@
 
 Welcome! 👋
 
-Today we present a simple tool that helps you find admin panels on websites بسهولة وسرعة.
+Today we present a simple tool that helps you find admin panels on websites
 
 - 🔍 Searches for common admin panel paths
 - 💻 Easy to use (CLI-based)
